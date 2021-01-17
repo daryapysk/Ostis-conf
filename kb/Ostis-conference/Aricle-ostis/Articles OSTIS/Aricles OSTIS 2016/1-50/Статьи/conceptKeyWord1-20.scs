@@ -1,0 +1,301 @@
+sc_node_not_relation-> concept_conceptual_architectural_project;;
+concept_conceptual_architectural_project => nrel_main_idtf:
+[Концептуальный архитектурный проект] (*<- lang_ru;;*);
+[Conceptual architectural project] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_solver_tasks;;
+concept_solver_tasks => nrel_main_idtf:
+[Решатель задачи] (*<- lang_ru;;*);
+[Solver tasks] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_automation_of_intellectual_activity;;
+concept_automation_of_intellectual_activity => nrel_main_idtf:
+[Автоматизация интеллектуальной деятельности] (*<- lang_ru;;*);
+[Automation of intellectual activity] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_knowledge_base_management;;
+concept_knowledge_base_management => nrel_main_idtf:
+[Управление базами знаний] (*<- lang_ru;;*);
+[Knowledge base management] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_protection_of_information;;
+concept_protection_of_information => nrel_main_idtf:
+[Защита информации] (*<- lang_ru;;*);
+[Protection of information] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_ontologies;;
+concept_ontologies => nrel_main_idtf:
+[Онтологии] (*<- lang_ru;;*);
+[Ontologies] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_information_security_systems;;
+concept_information_security_systems => nrel_main_idtf:
+[Безопасность информационных систем] (*<- lang_ru;;*);
+[Information security systems] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_informational_resources;;
+concept_informational_resources => nrel_main_idtf:
+[Информационные ресурсы] (*<- lang_ru;;*);
+[Informational resources] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_metagraphs;;
+concept_metagraphs => nrel_main_idtf:
+[Метаграфы] (*<- lang_ru;;*);
+[Metagraphs] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_ontological_models;;
+concept_ontological_models => nrel_main_idtf:
+[Онтологические модели] (*<- lang_ru;;*);
+[Ontological models] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_data_processing_scenario;;
+concept_data_processing_scenario => nrel_main_idtf:
+[Сценарий обработки данных] (*<- lang_ru;;*);
+[Data processing scenario] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_functional_elements;;
+concept_functional_elements => nrel_main_idtf:
+[Функциональные элементы] (*<- lang_ru;;*);
+[Functional elements] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_knowledge_portal;;
+concept_knowledge_portal => nrel_main_idtf:
+[Портал знаний] (*<- lang_ru;;*);
+[Knowledge portal] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_engineering_calculations;;
+concept_engineering_calculations => nrel_main_idtf:
+[Инженерные расчеты,] (*<- lang_ru;;*);
+[Engineering calculations] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_forming_method_complex_engineering_calculation;;
+concept_forming_method_complex_engineering_calculation => nrel_main_idtf:
+[Метод формирования сложного инженерного расчета] (*<- lang_ru;;*);
+[Forming method complex engineering calculation] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_poorly_formalized_subject_area;;
+concept_poorly_formalized_subject_area => nrel_main_idtf:
+[Слабоформализованная предметная область] (*<- lang_ru;;*);
+[Poorly formalized subject area] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_decision_support_system;;
+concept_decision_support_system => nrel_main_idtf:
+[Система поддержки принятия решений] (*<- lang_ru;;*);
+[Decision support system] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_comprehensive_support_of_the_development_process;;
+concept_comprehensive_support_of_the_development_process => nrel_main_idtf:
+[Комплексная поддержка процесса разработки] (*<- lang_ru;;*);
+[Comprehensive support of the development process] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_ontological_engineering;;
+concept_ontological_engineering => nrel_main_idtf:
+[Онтологический инженеринг] (*<- lang_ru;;*);
+[Ontological_engineering] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_situational_management_language;;
+concept_situational_management_language => nrel_main_idtf:
+[Язык ситуационного управления] (*<- lang_ru;;*);
+[Situational management language] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_cognitive_graphics;;
+concept_cognitive_graphics => nrel_main_idtf:
+[Когнитивная графика] (*<- lang_ru;;*);
+[Cognitive graphics] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_ontological_cognitive_event_and_probabilistic_modeling;;
+concept_ontological_cognitive_event_and_probabilistic_modeling => nrel_main_idtf:
+[Oнтологическое, когнитивное, событийное и вероятностное моделирование] (*<- lang_ru;;*);
+[Ontological cognitive event and probabilistic modeling] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_semantic_modeling;;
+concept_semantic_modeling => nrel_main_idtf:
+[Семантическое моделирование] (*<- lang_ru;;*);
+[Semantic modeling] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_semantics;;
+concept_semantics => nrel_main_idtf:
+[Семантика] (*<- lang_ru;;*);
+[Semantics] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_platform;;
+concept_platform => nrel_main_idtf:
+[Платформа] (*<- lang_ru;;*);
+[Platform] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_analysis_of_formal_concepts;;
+concept_analysis_of_formal_concepts => nrel_main_idtf:
+[Анализ формальных понятий] (*<- lang_ru;;*);
+[Analysis of formal concepts] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_multivalued_logic;;
+concept_multivalued_logic => nrel_main_idtf:
+[Многозначная логика] (*<- lang_ru;;*);
+[Multivalued logic] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_limiting_the_existence_of_properties;;
+concept_limiting_the_existence_of_properties => nrel_main_idtf:
+[Ограничение существования свойств] (*<- lang_ru;;*);
+[Limiting the existence of properties] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_ontological_data_analysis;;
+concept_ontological_data_analysis => nrel_main_idtf:
+[Онтологический анализ данных] (*<- lang_ru;;*);
+[Ontological data analysis] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_web_service;;
+concept_web_service => nrel_main_idtf:
+[Веб-сервис] (*<- lang_ru;;*);
+[Web service] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_knowledgedriven_information_systems;;
+concept_knowledgedriven_information_systems => nrel_main_idtf:
+[Управляемые знаниями информационные системы] (*<- lang_ru;;*);
+[Knowledgedriven Information systems] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_modular_construction_of_information_systems;;
+concept_modular_construction_of_information_systems => nrel_main_idtf:
+[Модульное построение информационных систем] (*<- lang_ru;;*);
+[Modular construction of Information systems] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_metabase_of_knowledge;;
+concept_metabase_of_knowledge => nrel_main_idtf:
+[Метабаза знаний] (*<- lang_ru;;*);
+[Metabase of knowledge] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_knowledge_subbase;;
+concept_knowledge_subbase => nrel_main_idtf:
+[Суббазы знаний] (*<- lang_ru;;*);
+[Knowledge subbase] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_structuring_the_knowledge_base;;
+concept_structuring_the_knowledge_base => nrel_main_idtf:
+[Структуризация базы знаний] (*<- lang_ru;;*);
+[Structuring the knowledge base] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_knowledge_base;;
+concept_knowledge_base => nrel_main_idtf:
+[База знаний] (*<- lang_ru;;*);
+[Knowledge base] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_knowledge_base_design;;
+concept_knowledge_base_design => nrel_main_idtf:
+[Система, управляемая знаниями] (*<- lang_ru;;*);
+[Knowledge base design] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_knowledge_driven_system;;
+concept_knowledge_driven_system => nrel_main_idtf:
+[Проектирование баз знаний] (*<- lang_ru;;*);
+[Knowledge driven system] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_classifier;;
+concept_classifier => nrel_main_idtf:
+[Классификатор] (*<- lang_ru;;*);
+[Classifier] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_knowledge_inference;;
+concept_knowledge_inference => nrel_main_idtf:
+[Вывод знаний] (*<- lang_ru;;*);
+[Knowledge inference] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_axiom;;
+concept_axiom => nrel_main_idtf:
+[Аксиома] (*<- lang_ru;;*);
+[Axiom] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_action;;
+concept_action => nrel_main_idtf:
+[Действие] (*<- lang_ru;;*);
+[Action] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_verb;;
+concept_verb => nrel_main_idtf:
+[Глагол] (*<- lang_ru;;*);
+[Verb] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_universal_semantic_code;;
+concept_universal_semantic_code => nrel_main_idtf:
+[Универсальный семантический код] (*<- lang_ru;;*);
+[Universal semantic code] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_semantic_string;;
+concept_semantic_string => nrel_main_idtf:
+[Семантическая строка] (*<- lang_ru;;*);
+[Semantic string] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_natural_language;;
+concept_natural_language => nrel_main_idtf:
+[Естественный язык] (*<- lang_ru;;*);
+[Natural language] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_formalization_of_activities;;
+concept_formalization_of_activities => nrel_main_idtf:
+[Формализация деятельности] (*<- lang_ru;;*);
+[Formalization of activities] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_project_OSTIS;;
+concept_project_OSTIS => nrel_main_idtf:
+[Проект ОСТИС] (*<- lang_ru;;*);
+[Project OSTIS] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_multiagent_systems;;
+concept_multiagent_systems => nrel_main_idtf:
+[Многоагентные системы] (*<- lang_ru;;*);
+[Multiagent systems] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_platform_independence;;
+concept_platform_independence => nrel_main_idtf:
+[Платформенная незавичимость] (*<- lang_ru;;*);
+[Platform independence] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_abstract_cars;;
+concept_abstract_cars => nrel_main_idtf:
+[Абстрактные машины] (*<- lang_ru;;*);
+[Аbstract cars] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_semantic_networks;;
+concept_semantic_networks => nrel_main_idtf:
+[Семантические сети] (*<- lang_ru;;*);
+[Semantic Networks] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_OSTIS;;
+concept_OSTIS => nrel_main_idtf:
+[ОСТИС] (*<- lang_ru;;*);
+[OSTIS] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_C#;;
+concept_C# => nrel_main_idtf:
+[C#] (*<- lang_ru;;*);
+[C#] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_.Net_Framework;;
+concept_.Net_Framework => nrel_main_idtf:
+[.Net Framework] (*<- lang_ru;;*);
+[.Net Framework] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_sctp;;
+concept_sctp => nrel_main_idtf:
+[sctp] (*<- lang_ru;;*);
+[sctp] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_sc_storage;;
+concept_sc_storage => nrel_main_idtf:
+[SC-хранилище] (*<- lang_ru;;*);
+[SC storage] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_smart_house;;
+concept_smart_house => nrel_main_idtf:
+[Умный дом] (*<- lang_ru;;*);
+[Smart House] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_internet_of_things;;
+concept_internet_of_things => nrel_main_idtf:
+[Интернет вещей] (*<- lang_ru;;*);
+[Internet of things] (*<-lang_en;;*);;
+
+sc_node_not_relation-> concept_virtual_model;;
+concept_virtual_model => nrel_main_idtf:
+[Виртуальная модель] (*<- lang_ru;;*);
+[Virtual model] (*<-lang_en;;*);;
+
+

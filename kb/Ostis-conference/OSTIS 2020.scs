@@ -1,0 +1,43 @@
+OSTIS_conference_2020 => nrel_main_idtf:
+	[Конференция OSTIS-2020]
+	(*
+	<- lang_ru;;
+	*);
+	[OSTIS-2020 conference]
+	(*
+	<- lang_en;;
+	*);;
+
+OSTIS_conference_2020 => nrel_program_committe_of_conference: program_committee_of_conference_OSTIS2020;;
+
+
+OSTIS_conference_2020 => nrel_start_time: ...
+(*
+<-concept_time_point;;
+=> nrel_translation_in_the_Gregorian_calendar: ...
+(*
+-> rrel_year: rrel_decimal: [2020];;
+->rrel_month:rrel_decimal:[2];;
+->rrel_day:rrel_decimal:[10];;
+*);;
+*);;
+
+
+OSTIS_conference_2020 => nrel_finish_time: ...
+(*
+<-concept_time_point;;          
+=> nrel_translation_in_the_Gregorian_calendar: ...
+(*
+-> rrel_year: rrel_decimal: [2020];;
+->rrel_month:rrel_decimal:[2];;
+->rrel_day:rrel_decimal:[11];;
+*);;
+*);;
+
+OSTIS_conference_2020 => nrel_participant_of_conference: concept_participant_of_conference_OSTIS2020;;
+
+OSTIS_conference_2020 => nrel_photo_collection: ...;;
+
+OSTIS_conference_2020 => nrel_contact_information: [conf2020@ostis.net]; [ostis2020@gmail.com];;
+
+OSTIS_conference_2020 <- OSTIS_conference;; 
